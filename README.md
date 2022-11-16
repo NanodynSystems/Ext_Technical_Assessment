@@ -1,5 +1,5 @@
 # INTRODUCTION
-This repository contains the data and instructions to complete the technical assessment test for employment at Nanodyn. This readme describes the necessary context, problem statement and instructions. Upon completion of this technical assessment, please send your output to dirk@nanodyn.co.za.
+This repository contains the data and instructions to complete the technical assessment test for employment at Nanodyn. This readme describes the necessary context, problem statement and instructions. Upon completion of this technical assessment, please send your output to sean@nanodyn.co.za.
 
 # CONTEXT
 The sugar production process is fairly well established. Although different factory configurations do exist, the foundation remains fairly consistent. At Nanodyn, one of our focus areas is the optimization of this sugar production process.
