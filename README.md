@@ -39,5 +39,5 @@ This problem statement is open ended by design. Therefore, some tips:
 * Please describe your train of thought within the output material. We do not expect you to be an industry expert so this helps us contextualize your findings.
 * The profit here is of course pertinent to the solution - building a model to understand this data seems like a sensible idea.
 * Make sure that any code you send is easy to execute on our side, since that allows us to evaluate the code more effectively.
-* Please feel free to contact dirk@nanodyn.co.za if you have any questions (technical or otherwise). This test is not only meant to evaluate your technical competency, but also to simulate the Nanodyn working environment where we throw you in the deep end and provide support where and when you need it.
+* Please feel free to contact sean@nanodyn.co.za if you have any questions (technical or otherwise). This test is not only meant to evaluate your technical competency, but also to simulate the Nanodyn working environment where we throw you in the deep end and provide support where and when you need it.
 
